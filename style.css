@@ -57,7 +57,8 @@ h1{text-align: center;}
 		background-color: grey;
 		border: 1px solid black;
 	}
-	@media (min-width: 992px){
+	@media (min-width: 992px)
+	{
 		.box1{
 			width: 30%;
 		}
